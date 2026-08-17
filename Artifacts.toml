@@ -1,160 +1,160 @@
 [[libpicosat]]
 arch = "aarch64"
-git-tree-sha1 = "ae87b0b6584a03201848eb00ca4de127b4831d22"
+git-tree-sha1 = "8085ca78738a9a227332545bfd1b917509f9dba1"
 os = "macos"
 
     [[libpicosat.download]]
-    sha256 = "54856960b373cab140990c5328158a7112ea1b603c1219a98da04bf90d855ee6"
-    url = "https://github.com/JuliaBinaryWrappers/libpicosat_jll.jl/releases/download/libpicosat-v965.0.1+0/libpicosat.v965.0.1.aarch64-apple-darwin.tar.gz"
+    sha256 = "be5a8b83e491350c2b57d7c603fd61147de3b83e0c70a5b61d17a278fe15aeed"
+    url = "https://github.com/JuliaBinaryWrappers/libpicosat_jll.jl/releases/download/libpicosat-v965.0.2+0/libpicosat.v965.0.2.aarch64-apple-darwin.tar.gz"
 [[libpicosat]]
 arch = "aarch64"
-git-tree-sha1 = "d1ae04682c12f1011c72bbcffc8abc77841049aa"
+git-tree-sha1 = "3df5809f0c0f82ba148c23ef3a18d1727595196c"
 libc = "glibc"
 os = "linux"
 
     [[libpicosat.download]]
-    sha256 = "c572dd8f759c624e9c919770f94488c21882ab62d1e634c5d3a2954c0df64f01"
-    url = "https://github.com/JuliaBinaryWrappers/libpicosat_jll.jl/releases/download/libpicosat-v965.0.1+0/libpicosat.v965.0.1.aarch64-linux-gnu.tar.gz"
+    sha256 = "7cce25ce5c183d606dc256ace9375045c8cfe30918ad38fd8863fc1fd4cd6e52"
+    url = "https://github.com/JuliaBinaryWrappers/libpicosat_jll.jl/releases/download/libpicosat-v965.0.2+0/libpicosat.v965.0.2.aarch64-linux-gnu.tar.gz"
 [[libpicosat]]
 arch = "aarch64"
-git-tree-sha1 = "f7f4f94482b99bfef59a18b32cf8e01932793fdb"
+git-tree-sha1 = "d27be879a31ccf55edfc3b023e2f077f8158b844"
 libc = "musl"
 os = "linux"
 
     [[libpicosat.download]]
-    sha256 = "e1bc3a8abadd8703a5ca6da6ccad48c3ff9057eb9c1f09ee1d3dda1608703e0e"
-    url = "https://github.com/JuliaBinaryWrappers/libpicosat_jll.jl/releases/download/libpicosat-v965.0.1+0/libpicosat.v965.0.1.aarch64-linux-musl.tar.gz"
+    sha256 = "d127af3a0e5ac7f5fc712cc0a14f1ff438c8f69197577731a10061aa0445e8c5"
+    url = "https://github.com/JuliaBinaryWrappers/libpicosat_jll.jl/releases/download/libpicosat-v965.0.2+0/libpicosat.v965.0.2.aarch64-linux-musl.tar.gz"
 [[libpicosat]]
 arch = "aarch64"
-git-tree-sha1 = "ee85af1c24622da33b86d16ed05673b08791983b"
+git-tree-sha1 = "65879ad1b001763a182f926c950b9e93a261f742"
 os = "freebsd"
 
     [[libpicosat.download]]
-    sha256 = "37e8a4aa505c7d9897513713883335879c5310289e13cac02cf8a0b498ca4e07"
-    url = "https://github.com/JuliaBinaryWrappers/libpicosat_jll.jl/releases/download/libpicosat-v965.0.1+0/libpicosat.v965.0.1.aarch64-unknown-freebsd.tar.gz"
+    sha256 = "1608b280853c5d444d1dc21c899393a933900d6ee0239137bf9498ebe83f64fa"
+    url = "https://github.com/JuliaBinaryWrappers/libpicosat_jll.jl/releases/download/libpicosat-v965.0.2+0/libpicosat.v965.0.2.aarch64-unknown-freebsd.tar.gz"
 [[libpicosat]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "258cdded2ec567f1f6e4cf37400fdc998360c3a3"
+git-tree-sha1 = "9136d86c8df7aad261f97aed8e30c79f9412367f"
 libc = "glibc"
 os = "linux"
 
     [[libpicosat.download]]
-    sha256 = "a8697819578891afd9d43b0495e014f95c099847c20c0f80ab6080d1f6c134f7"
-    url = "https://github.com/JuliaBinaryWrappers/libpicosat_jll.jl/releases/download/libpicosat-v965.0.1+0/libpicosat.v965.0.1.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "1f61876de70c381135a4abb69951c0cccd178fdbb649ce2b540090499c3bdf5d"
+    url = "https://github.com/JuliaBinaryWrappers/libpicosat_jll.jl/releases/download/libpicosat-v965.0.2+0/libpicosat.v965.0.2.armv6l-linux-gnueabihf.tar.gz"
 [[libpicosat]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "9e630b55410fc0c45d7fe60b77825b3365b240d4"
+git-tree-sha1 = "e27ccde1c3d432cfa2f7d65c4baa6074c8d9eceb"
 libc = "musl"
 os = "linux"
 
     [[libpicosat.download]]
-    sha256 = "6c6c22b7e5c273102eb18a54e6ce05f45640d5a26fb4bf7da4592ba898b800f5"
-    url = "https://github.com/JuliaBinaryWrappers/libpicosat_jll.jl/releases/download/libpicosat-v965.0.1+0/libpicosat.v965.0.1.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "0fe5e3814915c565f213c7e6d30a52b6a436e119aad7ed30125472474dbeccfa"
+    url = "https://github.com/JuliaBinaryWrappers/libpicosat_jll.jl/releases/download/libpicosat-v965.0.2+0/libpicosat.v965.0.2.armv6l-linux-musleabihf.tar.gz"
 [[libpicosat]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "36963a7867091d1b723f9959fb58dc0e242df857"
+git-tree-sha1 = "bc9a4205d6599ac5c4620fd8ac56792b39c8a9fb"
 libc = "glibc"
 os = "linux"
 
     [[libpicosat.download]]
-    sha256 = "0214598be171d9ae9139d6e7c5d5375d20dff422d8aa6ab32a9c7314ad82ca15"
-    url = "https://github.com/JuliaBinaryWrappers/libpicosat_jll.jl/releases/download/libpicosat-v965.0.1+0/libpicosat.v965.0.1.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "9da68e4c5da7d9b7a62ff5295b46cf153784fac440a2e3cfbf5ec40d89253ca4"
+    url = "https://github.com/JuliaBinaryWrappers/libpicosat_jll.jl/releases/download/libpicosat-v965.0.2+0/libpicosat.v965.0.2.armv7l-linux-gnueabihf.tar.gz"
 [[libpicosat]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "a9aa93b06a45e5457789c44b42b055247003bc94"
+git-tree-sha1 = "1e5aff3b59ddf801bab72c989cffd6e203df71ee"
 libc = "musl"
 os = "linux"
 
     [[libpicosat.download]]
-    sha256 = "bf3198b04662acfe2bc0bfc4aec13432664b6048647fb9d3e482acc7c8b0ecb0"
-    url = "https://github.com/JuliaBinaryWrappers/libpicosat_jll.jl/releases/download/libpicosat-v965.0.1+0/libpicosat.v965.0.1.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "6b0f7d81fba30a68232930170a644600567417d5bc9b4ed5d23628147dc7aba7"
+    url = "https://github.com/JuliaBinaryWrappers/libpicosat_jll.jl/releases/download/libpicosat-v965.0.2+0/libpicosat.v965.0.2.armv7l-linux-musleabihf.tar.gz"
 [[libpicosat]]
 arch = "i686"
-git-tree-sha1 = "99f08f11d1e8979812de985d5607e771c5dc7991"
+git-tree-sha1 = "fe61b7f08e4c187339917b24b2a7a5792d6cdf09"
 libc = "glibc"
 os = "linux"
 
     [[libpicosat.download]]
-    sha256 = "6b4521dc6a6845b396e7252201d21307e6ab5534e1c59662e4992b1d3c6c277d"
-    url = "https://github.com/JuliaBinaryWrappers/libpicosat_jll.jl/releases/download/libpicosat-v965.0.1+0/libpicosat.v965.0.1.i686-linux-gnu.tar.gz"
+    sha256 = "3b2af59c887df3a3163adb992b1d2d6f8a11667b433f5d0f520adb5e937b94af"
+    url = "https://github.com/JuliaBinaryWrappers/libpicosat_jll.jl/releases/download/libpicosat-v965.0.2+0/libpicosat.v965.0.2.i686-linux-gnu.tar.gz"
 [[libpicosat]]
 arch = "i686"
-git-tree-sha1 = "10ef6b9b5accd638d2da2b4a83fde256b64408f0"
+git-tree-sha1 = "c5d96fa4885bfaa192821b47b628352590c0e893"
 libc = "musl"
 os = "linux"
 
     [[libpicosat.download]]
-    sha256 = "c9ae9cece9301e608d15ec257b6338f2d036d511c3974051fdf4e9fe9852eafc"
-    url = "https://github.com/JuliaBinaryWrappers/libpicosat_jll.jl/releases/download/libpicosat-v965.0.1+0/libpicosat.v965.0.1.i686-linux-musl.tar.gz"
+    sha256 = "a4efeaa193adf390c5390caef0a35a967268f66c2e7254cb77de599692a09192"
+    url = "https://github.com/JuliaBinaryWrappers/libpicosat_jll.jl/releases/download/libpicosat-v965.0.2+0/libpicosat.v965.0.2.i686-linux-musl.tar.gz"
 [[libpicosat]]
 arch = "i686"
-git-tree-sha1 = "40de73fc1e987c2831457e2b992f593797b2de38"
+git-tree-sha1 = "8ef3f3a0f71dff9eb3da0793a44ff969c52634aa"
 os = "windows"
 
     [[libpicosat.download]]
-    sha256 = "52f0964d3c479e9084ff5bb98ce58aa00f855f55d605ae66fc3d37b436c90c24"
-    url = "https://github.com/JuliaBinaryWrappers/libpicosat_jll.jl/releases/download/libpicosat-v965.0.1+0/libpicosat.v965.0.1.i686-w64-mingw32.tar.gz"
+    sha256 = "a1b66c8c55ff5ed9c718ffec4350adbe8fdc7c17f85eda1c00c0a119b2cd18b6"
+    url = "https://github.com/JuliaBinaryWrappers/libpicosat_jll.jl/releases/download/libpicosat-v965.0.2+0/libpicosat.v965.0.2.i686-w64-mingw32.tar.gz"
 [[libpicosat]]
 arch = "powerpc64le"
-git-tree-sha1 = "32bec5286b8d0418f24a6f04656969564e58cab4"
+git-tree-sha1 = "bca2528647c745b084a38e214c6d9a70b39ccb7e"
 libc = "glibc"
 os = "linux"
 
     [[libpicosat.download]]
-    sha256 = "fbebd0bfc97fb9ac0dbe28e8e2eb364cc7c32546edbc9d415b82a2240e281671"
-    url = "https://github.com/JuliaBinaryWrappers/libpicosat_jll.jl/releases/download/libpicosat-v965.0.1+0/libpicosat.v965.0.1.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "355526571d9709b49051b66b897d682c5e2d4585f578b109ec504a670f045e7a"
+    url = "https://github.com/JuliaBinaryWrappers/libpicosat_jll.jl/releases/download/libpicosat-v965.0.2+0/libpicosat.v965.0.2.powerpc64le-linux-gnu.tar.gz"
 [[libpicosat]]
 arch = "riscv64"
-git-tree-sha1 = "37382eefd66bc7f37a59b33251d25221d10af828"
+git-tree-sha1 = "15cbea4b33824fa430522009ea87d678cc563820"
 libc = "glibc"
 os = "linux"
 
     [[libpicosat.download]]
-    sha256 = "8c2765148812ca4575b3c03b75f74da6478b3929468f9ae85b05b8d3ef3d9fde"
-    url = "https://github.com/JuliaBinaryWrappers/libpicosat_jll.jl/releases/download/libpicosat-v965.0.1+0/libpicosat.v965.0.1.riscv64-linux-gnu.tar.gz"
+    sha256 = "0231f6f70ac738e6822f4a56c5e92db31ad520188bf62ab02f70255e3197fe8a"
+    url = "https://github.com/JuliaBinaryWrappers/libpicosat_jll.jl/releases/download/libpicosat-v965.0.2+0/libpicosat.v965.0.2.riscv64-linux-gnu.tar.gz"
 [[libpicosat]]
 arch = "x86_64"
-git-tree-sha1 = "41c128fe79a5763de24741d00d0f18b155db679a"
+git-tree-sha1 = "35d2eae84d2ef2c132b1db6470dc25529c5fc78c"
 os = "macos"
 
     [[libpicosat.download]]
-    sha256 = "1a99c30efa84101017cefaa2d04cd7d081ca9418d240afe34111c4267bb17764"
-    url = "https://github.com/JuliaBinaryWrappers/libpicosat_jll.jl/releases/download/libpicosat-v965.0.1+0/libpicosat.v965.0.1.x86_64-apple-darwin.tar.gz"
+    sha256 = "a4b0a8cc49f103b612b942c834d9e9b6f2c100d063c82f2f6d82d83230c16ca1"
+    url = "https://github.com/JuliaBinaryWrappers/libpicosat_jll.jl/releases/download/libpicosat-v965.0.2+0/libpicosat.v965.0.2.x86_64-apple-darwin.tar.gz"
 [[libpicosat]]
 arch = "x86_64"
-git-tree-sha1 = "498ad10c2dbe782fa2da5c86423d2075d8643a8c"
+git-tree-sha1 = "e58ce343ca2135e6eda9e09a6d7ebbaee7bae215"
 libc = "glibc"
 os = "linux"
 
     [[libpicosat.download]]
-    sha256 = "cee6833479800444f37e908e894878b00c9b79fe102485f64bd17d1fb7a2c98c"
-    url = "https://github.com/JuliaBinaryWrappers/libpicosat_jll.jl/releases/download/libpicosat-v965.0.1+0/libpicosat.v965.0.1.x86_64-linux-gnu.tar.gz"
+    sha256 = "63a9c6d21a8afc627b5891dc76b556e0ad774bb9db8b4db12cd892a3a3a28883"
+    url = "https://github.com/JuliaBinaryWrappers/libpicosat_jll.jl/releases/download/libpicosat-v965.0.2+0/libpicosat.v965.0.2.x86_64-linux-gnu.tar.gz"
 [[libpicosat]]
 arch = "x86_64"
-git-tree-sha1 = "ad01b7494169dc323dc615544336a670434b39dc"
+git-tree-sha1 = "b0d01c79732c52b226343f7839710b603b694d54"
 libc = "musl"
 os = "linux"
 
     [[libpicosat.download]]
-    sha256 = "845ba54eaf6c3126546bc31f9c796c98fc6a205f39e4975df856b3762ba0dcd5"
-    url = "https://github.com/JuliaBinaryWrappers/libpicosat_jll.jl/releases/download/libpicosat-v965.0.1+0/libpicosat.v965.0.1.x86_64-linux-musl.tar.gz"
+    sha256 = "6af4dcc21e3611adf7c12bc00ae214070cde02cb162e08d4d6e1d4d4a147aa32"
+    url = "https://github.com/JuliaBinaryWrappers/libpicosat_jll.jl/releases/download/libpicosat-v965.0.2+0/libpicosat.v965.0.2.x86_64-linux-musl.tar.gz"
 [[libpicosat]]
 arch = "x86_64"
-git-tree-sha1 = "75db0bee514d81f99a1736f49edf5d530d1002fd"
+git-tree-sha1 = "08482fb5affac2a8bc807a7f68d80fdba42cc73a"
 os = "freebsd"
 
     [[libpicosat.download]]
-    sha256 = "c03699088fbe2f7e229db5b29266676eb4ccce74a624604daa571355393c2128"
-    url = "https://github.com/JuliaBinaryWrappers/libpicosat_jll.jl/releases/download/libpicosat-v965.0.1+0/libpicosat.v965.0.1.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "0881faf2837cd1bc3f5c943a1536abeddc99775b58b9060654381298f3d92253"
+    url = "https://github.com/JuliaBinaryWrappers/libpicosat_jll.jl/releases/download/libpicosat-v965.0.2+0/libpicosat.v965.0.2.x86_64-unknown-freebsd.tar.gz"
 [[libpicosat]]
 arch = "x86_64"
-git-tree-sha1 = "61712e19e3973344fbe709122345269cbea6f7b2"
+git-tree-sha1 = "a800e46ceacbc65f7da4535bd5af59854262a8b4"
 os = "windows"
 
     [[libpicosat.download]]
-    sha256 = "8634c7ee699dc0a17a20bc72eb634188a35c71d7caff9b5aaeecc7190a456aab"
-    url = "https://github.com/JuliaBinaryWrappers/libpicosat_jll.jl/releases/download/libpicosat-v965.0.1+0/libpicosat.v965.0.1.x86_64-w64-mingw32.tar.gz"
+    sha256 = "78d868ea094d0aa292eb719c0897cd3dc532a7cbc4deeee4e6000087a607ce93"
+    url = "https://github.com/JuliaBinaryWrappers/libpicosat_jll.jl/releases/download/libpicosat-v965.0.2+0/libpicosat.v965.0.2.x86_64-w64-mingw32.tar.gz"
